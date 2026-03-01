@@ -55,7 +55,7 @@ This project presents an interactive Sales Analysis Dashboard built using Power 
 
 ## Dashboard Preview
 
-![Sales Dashboard](screenshots/dashboard.png)
+![Sales Dashboard](Screenshot 2026-03-01 100658.png)
 ---
 
 ## How to Use
